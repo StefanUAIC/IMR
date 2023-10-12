@@ -3,6 +3,20 @@
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
 /[Ll]ibrary/
+library
+Library
+temp
+Temp
+obj
+Obj
+build
+Build
+Builds
+builds
+Logs
+logs
+memoryCaptures
+MemoryCaptures
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
