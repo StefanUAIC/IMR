@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2b7282a4d406f4240aa097d8c0f98601
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - throwParticles: {instanceID: 0}
+  - throwSound: {instanceID: 0}
+  - collisionParticlesPrefab: {instanceID: 0}
+  - collisionSound: {instanceID: 0}
+  - newBestScoreSound: {fileID: 8300000, guid: 0c008ee3ee72a4362a35be25fa5de043, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
